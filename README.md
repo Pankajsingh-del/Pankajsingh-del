@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pankajsingh-del
-- 👀 I’m interested in coading
-- 🌱 I’m currently learning java
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
