@@ -7,7 +7,6 @@
 ## 👀 Interests
 - 💻 Full-stack web development
 - 🌐 Open source contribution
-- 🧠 Competitive programming & DSA
 
 ---
 
@@ -22,7 +21,6 @@
 ## 💞️ Looking to Collaborate On
 - 🔧 Python automation tools
 - 🤝 Beginner-friendly open source projects
-- 🏆 Hackathon teams
 
 ---
 
