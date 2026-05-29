@@ -1,37 +1,9 @@
-# 👋 Hi, I'm Pankaj Singh (@Pankajsingh-del)
+Hi, I'm Pankaj Singh 👋
+I'm a developer from Delhi, currently learning Python and building things one project at a time.
 
-> *"Building in public, learning every day ☕"*
+🌱 Learning: Python, DSA, Web Development
+💞️ Open to collaborating on beginner-friendly projects and hackathons
+📫 Reach me on GitHub or drop a message!
 
----
 
-## 👀 Interests
-- 💻 Full-stack web development
-- 🌐 Open source contribution
-
----
-
-## 🌱 Currently Learning
-- 🐍 Python
-- 📊 Data Structures & Algorithms
-- 🌍 Web Development (HTML, CSS, JavaScript)
-- 🗄️ SQL & Databases
-
----
-
-## 💞️ Looking to Collaborate On
-- 🔧 Python automation tools
-- 🤝 Beginner-friendly open source projects
-
----
-
-## 📫 How to Reach Me
-- 🐙 GitHub: [github.com/Pankajsingh-del](https://github.com/Pankajsingh-del)
-- 💬 Ask me about **Python** — always happy to help!
-
----
-
-*Currently breaking things to understand how they work 🚀*
-<!---
-Pankajsingh-del/Pankajsingh-del is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+"Currently breaking things to understand how they work 🚀"
